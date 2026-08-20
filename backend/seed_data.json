@@ -1,0 +1,146 @@
+[
+  {
+    "name": "陈泽宇",
+    "major": "软件工程",
+    "grade": "大三",
+    "bio_raw": "软件工程大三，从大二开始迷上用 C++ 写小游戏，EasyX 写了贪吃蛇、推箱子、飞机大战。现在最感兴趣的是“关卡怎么自动生成”，一直在翻程序化生成（procedural generation）的资料，也拿 Python 爬过豆瓣数据做过小分析。喜欢啃原版技术书，英语读写还行。",
+    "project_experience": "EasyX 飞机大战：自己写了碰撞检测、敌机简单 AI、帧动画和计分；Python 爬豆瓣 Top250 做评分分布可视化；正在读《游戏编程模式》，想用柏林噪声写一个自动生成 2D 关卡的小 demo。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "林雨桐",
+    "major": "建筑学",
+    "grade": "大四",
+    "bio_raw": "建筑学大四，毕设做参数化设计。大三开始用 Rhino + Grasshopper，喜欢用算法生成建筑形态，而不是纯手绘推敲。做过一个用遗传算法优化建筑开窗率的小课题，觉得“让程序帮我找最优解”特别有意思。平时也拍拍照、画点速写。",
+    "project_experience": "Grasshopper 参数化立面：用 attractor 点控制幕墙开孔大小；遗传算法优化建筑开窗率（Galapagos + Ladybug 日照模拟）；参加过一个小型数字建造 workshop，用 CNC 切过异形曲面构件。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "王子豪",
+    "major": "数字媒体技术",
+    "grade": "大二",
+    "bio_raw": "数媒大二，玩 Unity 和 Blender。特别喜欢做有物理效果的动画和小 demo，布料、刚体碰撞、破碎这些。总觉得“怎么让动画看起来更真实”这件事特别酷，会一点 C#，数学底子一般但愿意补。",
+    "project_experience": "Unity 里做过布料/软体模拟的小 demo（Verlet 积分 + 约束）；Blender 做了一段刚体破碎动画；写过粒子系统，用弹簧-质点模型模拟绳子摆动。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "赵一鸣",
+    "major": "机械工程",
+    "grade": "大二",
+    "bio_raw": "机械大二，机器人社团的。做机械臂和机构仿真，用 MATLAB 算运动学、用 Adams 做动力学仿真，调过 PID。也会用 Arduino 焊小车。对“机构怎么动起来、受力对不对”这件事有执念。",
+    "project_experience": "六轴机械臂正逆运动学（MATLAB 手推 DH 参数 + 仿真）；Adams 曲柄滑块机构运动仿真，分析加速度突变；Arduino 循迹小车，自己调了 PID 巡线。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "苏晓彤",
+    "major": "金融学",
+    "grade": "大三",
+    "bio_raw": "金融大三，对量化投资感兴趣。用 Python 做因子回测，写过动量、均值回归这些经典策略，也用过 backtrader。数据分析用 pandas/numpy 很熟。想走量化研究的方向，正在补概率论和机器学习。",
+    "project_experience": "A 股多因子回测框架（Python + backtrader + tushare）；用 LSTM 做过一段股价预测，效果一般但把 RNN 的坑都踩了一遍；Excel VBA 做过研报数据自动化整理。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "周子墨",
+    "major": "计算机科学与技术",
+    "grade": "大四",
+    "bio_raw": "CS 大四，方向是机器学习。PyTorch 比较熟，做过图像分类、文本情感分析。最近在钻研时间序列预测和推荐系统，对“怎么把模型用到真实业务”很感兴趣，毕设想做时序相关的。",
+    "project_experience": "PyTorch 手写 CNN 做 CIFAR-10 分类；豆瓣评论情感分析（LSTM/BERT）；正在做电力负荷的时间序列预测，试了 LSTM、Transformer 和 Prophet。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "顾嘉怡",
+    "major": "视觉传达设计",
+    "grade": "大三",
+    "bio_raw": "视传大三，方向偏信息设计和数据可视化。Figma、Illustrator 熟练，还自学了一点 Processing 做动态数据艺术。喜欢把抽象的数据变成看得懂、好看的图形，做过把城市通勤数据画成信息图的项目。",
+    "project_experience": "城市通勤热力图信息海报（拿到地铁客流数据，用 Illustrator 排版）；Processing 做实时数据流动画；给学校社团做过一整套 VI 和招新海报。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "何睿",
+    "major": "数学与应用数学",
+    "grade": "大三",
+    "bio_raw": "数学大三，对图论和组合优化更感兴趣。数模竞赛常客，写过最短路径、网络流、社区发现。MATLAB 熟练，Python 会一点。喜欢用数学把“关系”这件事建模清楚。",
+    "project_experience": "数模国赛：用图论建模做城市交通网络分析；用 NetworkX 做微博转发网络的社区发现；复现过 PageRank 并写过一篇小课程报告。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "郑浩然",
+    "major": "电子信息工程",
+    "grade": "大三",
+    "bio_raw": "电子信息大三，玩嵌入式。STM32、ESP32 都摸过，做过智能家居节点、传感器采集。会 C，最近在看 RTOS。对“把物理世界的数据收上来、传出去”这件事很熟。",
+    "project_experience": "ESP32 温湿度/光照传感器，走 MQTT 上报到云端；STM32 平衡小车（PID + 互补滤波）；做过一个简单的光电心率检测 demo。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "秦雨薇",
+    "major": "环境设计",
+    "grade": "大二",
+    "bio_raw": "环境设计大二，偏景观和生态方向。做校园绿地分析，关心植物配置、微气候、雨水管理这些。会用 ArcGIS 做基础空间分析，也手绘。觉得“设计要回应场地真实的自然条件”很重要。",
+    "project_experience": "校园绿地可达性分析（ArcGIS 缓冲区 + 叠加分析）；雨水花园概念设计，算了汇水面积和渗透量；跟着老师做过校园植物普查和配置建议。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "沈一诺",
+    "major": "软件工程",
+    "grade": "大三",
+    "bio_raw": "软件工程大三，方向偏后端。FastAPI、Django 都写过，PostgreSQL、Redis 会用。做过几个小项目的 API 和数据库设计，对接口设计和数据一致性比较讲究。也想学点分布式。",
+    "project_experience": "用 FastAPI 给社团写过一个活动报名系统（JWT 鉴权 + PostgreSQL）；一个课程表爬虫 + 缓存（Redis）；在看《数据密集型应用系统设计》，在补消息队列。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "许芷晴",
+    "major": "软件工程",
+    "grade": "大二",
+    "bio_raw": "软件工程大二，喜欢做前端。React、TypeScript、Tailwind 用得很熟，会画原型。做过几个网页和 H5，对动画和交互手感有点小洁癖。想往全栈走，后端正在学。",
+    "project_experience": "用 React + TS 做过一个课程表 Web App；给学院做过活动宣传 H5（含动画）；正在学 Node/Express 和后端接口联调。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "唐嘉禾",
+    "major": "工业设计",
+    "grade": "大三",
+    "bio_raw": "工业设计大三，偏产品设计和交互设计。会 Rhino 建模、Keyshot 渲染，也做用户研究和可用性测试。喜欢想“这个产品为什么这样设计”，做过智能硬件的交互设计课题。",
+    "project_experience": "智能家居控制面板的交互设计（用户访谈 + 低保真/高保真原型 + 可用性测试）；Rhino + Keyshot 做过一个桌面无线充电器外观设计；Figma 做 app 原型。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "梁思远",
+    "major": "数字媒体技术",
+    "grade": "大四",
+    "bio_raw": "数媒大四，偏数字艺术和 3D。Maya、Houdini、Substance 都用过，做过短片和游戏美术资产。对程序化建模和特效（VFX）感兴趣，觉得用节点搭出复杂效果很爽。",
+    "project_experience": "Houdini 程序化建模：用 VEX 生成建筑群和藤蔓；Maya 做过角色绑定和一小段动画短片；给一款学生游戏项目做过 3D 美术资产和贴图。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "韩冰",
+    "major": "计算机科学与技术",
+    "grade": "大三",
+    "bio_raw": "CS 大三，偏系统和底层。操作系统、计算机网络学得比较深，写过小的 OS 内核实验、socket 通信。对分布式系统和并发很有兴趣，会 Go 和 C。想做基础设施方向。",
+    "project_experience": "操作系统课程：写过一个带进程调度和内存管理的 mini 内核；用 Go 写过高并发 TCP 转发代理；读过 MIT 6.824 的论文，复现过一个简化版 Raft。",
+    "github_url": null,
+    "portfolio_urls": []
+  },
+  {
+    "name": "温语晴",
+    "major": "金融学",
+    "grade": "大二",
+    "bio_raw": "金融大二，对金融科技和区块链感兴趣。学过一点 Solidity 和智能合约，也看量化。觉得“金融 + 代码”是很有意思的结合，正在补编程，会一点 Python。",
+    "project_experience": "写过简单的 Solidity 智能合约（代币 + 简单 DApp demo）；用 Python 做过数字货币行情分析和简单回测；参加过金融科技社团的区块链读书会。",
+    "github_url": null,
+    "portfolio_urls": []
+  }
+]
